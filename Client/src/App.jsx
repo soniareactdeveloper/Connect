@@ -6,7 +6,7 @@ import Registration from './Pages/registration'
 import ForgetPass from './Pages/forgetPass'
 import MainLayouts from './Layouts/MainLayouts'
 import Home from './Pages/Home'
-import Chat from './Components/chat'
+import Chat from './Pages/chat'
 import Group from './Components/group'
 import People from './Components/people'
 
